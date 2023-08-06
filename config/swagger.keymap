@@ -58,7 +58,7 @@
 
         Lctrl {
             bindings = <&kp LEFT_CONTROL>;
-            key-positions = <13 14>;
+            key-positions = <14 15>;
         };
     };
 
