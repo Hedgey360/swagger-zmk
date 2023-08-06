@@ -51,12 +51,12 @@
             key-positions = <20 21>;
         };
 
-        new_combo {
+        Delete {
             bindings = <&kp DEL>;
             key-positions = <10 11>;
         };
 
-        new_combo {
+        Lctrl {
             bindings = <&kp LEFT_CONTROL>;
             key-positions = <13 14>;
         };
